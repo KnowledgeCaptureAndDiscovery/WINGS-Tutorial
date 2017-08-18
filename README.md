@@ -1,4 +1,4 @@
 # WINGS-Tutorial
 Usage and installation tutorial for WINGS
 
-Author: Alyssa
+Author: Varun Ratnakar, Daniel Garijo, Yoland Gil, Alyssa Deng, Kate Musen, Taylor Alarcon, Christian Firtz
